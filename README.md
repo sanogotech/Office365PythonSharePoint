@@ -7,3 +7,8 @@ gee_zonal_stats - [Zonal Statistics Using Google Earth Engine and Visualisation 
 sharepoint_data_transfer_using_python - [Microsoft SharePoint Data Transfer Using Python](https://medium.com/@wardarahim25/microsoft-sharepoint-data-transfer-using-python-a7c2721392c)
 
 custom_vertex_ai_pipelines - [Step-by-Step Guide to Creating and Deploying Custom ML Pipelines with GCP Vertex AI (Part 1)](https://medium.com/@wardarahim25/step-by-step-guide-to-creating-and-deploying-custom-ml-pipelines-with-gcp-vertex-ai-part-1-61185bc24f6a), [Step-by-Step Guide to Creating and Deploying Custom ML Pipelines with GCP Vertex AI (Part 2)](https://medium.com/@wardarahim25/step-by-step-guide-to-creating-and-deploying-custom-ml-pipelines-with-gcp-vertex-ai-part-2-3be6e314bc48)
+
+## Docs
+
+- https://medium.com/@wardarahim25/microsoft-sharepoint-data-transfer-using-python-a7c2721392c
+- https://shareplum.readthedocs.io/en/latest/tutorial.html#download-data
